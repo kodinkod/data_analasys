@@ -8,7 +8,8 @@
   ![graph](simsons_kaggle/output.png)
 
 ## **Предсказания оттока пользователей** кэггл [notebook](Prediction_of_user_churn/Prediction_of_user_churn.ipynb)
- - **digit_recognition** - Пример распознования цифр, сравнение uniform и Xavier на MNIST
+
+##  **digit_recognition** - Пример распознования цифр, сравнение uniform и Xavier на MNIST [notebook](digit_recognition/main.ipynb)
  
  ![graph](digit_recognition_xav_uni/output.png)
 
