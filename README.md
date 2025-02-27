@@ -1,4 +1,4 @@
-# pets
+# Pets 
 Итак, в нашей баночке есть:
 
 ## **Логистическая регрессия** своими руками [notebook](linear_models_hand_made/linear_models.ipynb)
